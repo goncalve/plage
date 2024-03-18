@@ -8,11 +8,11 @@
       "experiences": [
         {
           "name": "Iguaçu Falls",
-          "image": "iguacu-falls.jpg",
+          "image": "iguacu-falls.jpg"
         },
         {
           "name": "Pão de Açúcar",
-          "image": "pao-de-acucar.jpg",
+          "image": "pao-de-acucar.jpg"
         }
       ]
     },
@@ -24,11 +24,11 @@
       "experiences": [
         {
           "name": "Panama City",
-          "image": "panama-city.jpg",
+          "image": "panama-city.jpg"
         },
         {
           "name": "Panama Canal",
-          "image": "panama-canal.jpg",
+          "image": "panama-canal.jpg"
         }
       ]
     },
@@ -40,11 +40,11 @@
       "experiences": [
         {
           "name": "Na Pali Coast",
-          "image": "na-pali-coast.jpg",
+          "image": "na-pali-coast.jpg"
         },
         {
           "name": "O'Ahu's North Shore",
-          "image": "ohaus-north-shore.jpg",
+          "image": "ohaus-north-shore.jpg"
         }
       ]
     },
@@ -56,11 +56,11 @@
       "experiences": [
         {
           "name": "Tower Isle",
-          "image": "tower-isle.jpg",
+          "image": "tower-isle.jpg"
         },
         {
           "name": "Blue Mountain",
-          "image": "blue-mountain.jpg",
+          "image": "blue-mountain.jpg"
         }
       ]
     }
